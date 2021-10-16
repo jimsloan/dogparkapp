@@ -1,6 +1,6 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
-baseurl = "https://aicurious.io/"  # Include trailing slash
+baseurl = "https://loving-chandrasekhar-b5451a.netlify.app/"  # Include trailing slash
 title = "Dog Park App"
 author = "Jim Sloan"
 copyright = "Copyright © 2021, Jim Sloan; all rights reserved."
