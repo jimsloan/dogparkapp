@@ -10,7 +10,7 @@ blockquote {
     margin-top: 0.5rem;
 }
 blockquote::before {
-    content: "\201C";
+    // content: "\201C";
     color:  var(--header-text);
     font-size: 4em;
     position: absolute;
