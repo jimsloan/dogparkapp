@@ -4,22 +4,22 @@
   weight = 10
 
 [[main]]
-  name = "At the Park"
-  url = "/now/"
+  name = "Check-In"
+  url = "/check-in/"
   weight = 20
 
 [[main]]
-  name = "Who's going"
-  url = "/ontheway/"
+  name = "Schedule"
+  url = "/schedule/"
   weight = 30
 
 [[main]]
-  name = "Let's Meet"
-  url = "/meet/"
+  name = "Invite"
+  url = "/invite/"
   weight = 40
 
 [[main]]
-  name = "Park Conditions"
+  name = "Conditions"
   url = "/conditions/"
   weight = 45
 
