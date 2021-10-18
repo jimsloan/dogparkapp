@@ -8,7 +8,7 @@ Invite friends to meet you at the park.
 * Show current invitations
     * Click to show details
     * Option to update or cancel
-* Use the invitation form
+* To use the invitation form you will:
     * Pick a date and time
     * Pick one or more friends 
-    * Choose to add a confirmed invitation to the schedule (all participants must agree to this option)
+    * Choose to add the confirmed invitation to the schedule (all participants must agree to this option)

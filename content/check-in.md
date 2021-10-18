@@ -4,7 +4,13 @@ slug: "/check-in/"
 #discussionId: "/now/"
 date: 2021-10-15
 ---
-When you arrive at the park you will be able to check in.
+Users will have the ability to check in when they arrive at the park.
 
-* Display a list of friends that are at the park now
-* The Check-In option will be available on the app only when you are at the park
+* Until you arrive this page will:
+    * Display a list of friends that are at the park now
+    * Show the current conditions
+
+* Upon arrival:
+    * The Check-In option will be available
+    * You can confirm or update the current conditions
+    
