@@ -12,4 +12,4 @@ featured: true
 toc: true
 weight: 30
 ---
-Maybe you would like to [invite](/invite/) some of your friends to meet at the park. This is different from the [schedule](/shcedule/) in that only you and your invited guests will see this infomation. However you will have the option to add this to the schedule for your friends to see.
+Maybe you would like to [invite](/invite/) some of your friends to meet at the park. This is different from the [schedule](/schedule/) in that only you and your invited guests will see this infomation. However you will have the option to add this to the schedule for your friends to see.
