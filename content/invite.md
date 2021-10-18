@@ -11,3 +11,4 @@ Invite friends to meet you at the park.
 * Use the invitation form
     * Pick a date and time
     * Pick one or more friends 
+    * Choose to add a confirmed invitation to the schedule (all participants must agree to this option)

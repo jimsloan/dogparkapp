@@ -1,29 +1,20 @@
 [[main]]
-  name = "Home"
-  url = "/"
-  weight = 10
-
-[[main]]
   name = "Check-In"
   url = "/check-in/"
-  weight = 20
+  weight = 10
 
 [[main]]
   name = "Schedule"
   url = "/schedule/"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Invite"
   url = "/invite/"
-  weight = 40
+  weight = 30
 
 [[main]]
   name = "Conditions"
   url = "/conditions/"
-  weight = 45
+  weight = 40
 
-[[main]]
-  name = "<img src=\"/icons/mail.svg\" style=\"height:1.2rem; display: inline; margin: 0;\">"
-  url = "/contact/"
-  weight = 50

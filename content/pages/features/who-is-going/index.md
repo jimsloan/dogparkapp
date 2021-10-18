@@ -8,4 +8,4 @@ date: 2021-10-16
 toc: true
 weight: 20
 ---
-Looking at the [schedule](/schedule/) you can see who is making plans to visit the park.
+Looking at the [schedule](/schedule/) you can see who is making plans to visit the park and let your friends know the next time you'll be there.
