@@ -1,10 +1,15 @@
 ---
 title: "Who's already at the park?"
-date: 2021-02-16
-# description: "Describe the features of knowing who is at the park."
-toc: true
-draft: false
 weight: 10
 ---
-Using the '[check-in](/check-in/)' feature users can let their friends know that they are currently at the park. Once you arrive you will be able to check-in yourself.
+Using the '[At the park](/at-the-park/)' feature users see who has checked in at the park. Users will have the ability to check in when they arrive at the park.
 
+This page will:
+
+* Display a list of friends that are at the park now
+* Show the current conditions
+
+Upon arrival at the park:
+
+* The Check-In option will be available in the menu and a button will appear on this page
+* Once check in you can confirm or update the current conditions

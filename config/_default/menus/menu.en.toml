@@ -1,6 +1,6 @@
 [[main]]
-  name = "Check-In"
-  url = "/check-in/"
+  name = "At the Park"
+  url = "/at-the-park/"
   weight = 10
 
 [[main]]
